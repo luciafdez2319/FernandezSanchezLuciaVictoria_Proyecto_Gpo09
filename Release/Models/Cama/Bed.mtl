@@ -1,0 +1,39 @@
+# Blender MTL File: 'bed.blend'
+# Material Count: 3
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd madera_2.jpg
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Cama_Sabana\\Fabric040_1K_Normal.jpg
+map_Kd Cama_Sabana\\Fabric040_1K_Color.jpg
+map_Ns Cama_Sabana\\Fabric040_1K_Roughness.jpg
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Cuarto_Almohada\\Fabric034_1K_Normal.jpg
+map_Kd Cuarto_Almohada\\Fabric034_1K_Color.jpg
+map_Ns Cuarto_Almohada\\Fabric034_1K_Roughness.jpg

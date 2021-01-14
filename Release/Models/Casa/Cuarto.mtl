@@ -1,0 +1,89 @@
+# Blender MTL File: 'cuarto.blend'
+# Material Count: 7
+
+newmtl Azul_Marino
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Cuarto_Puertas_Azul\\Paint002_2K_Normal.jpg
+map_Kd Cuarto_Puertas_Azul\\Paint002_2K_Color.jpg
+map_Ns Cuarto_Puertas_Azul\\Paint002_2K_Roughness.jpg
+
+newmtl EdificioAmarillo
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Edificio_Amarillo_Concreto\\PaintedPlaster004_2K_Normal.jpg
+map_Kd Edificio_Amarillo_Concreto\\PaintedPlaster004_2K_Color.jpg
+map_Ns Edificio_Amarillo_Concreto\\PaintedPlaster004_2K_Roughness.jpg
+
+newmtl Edificio_Casa
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Cuarto_Azul_Celeste\\Paint004_2K_Normal.jpg
+map_Kd Cuarto_Azul_Celeste\\Paint004_2K_Color.jpg
+map_Ns Cuarto_Azul_Celeste\\Paint004_2K_Roughness.jpg
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Piso_Madera
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Edificio_Piso\\old_planks_02_nor_1k.jpg
+map_Kd Edificio_Piso\\old_planks_02_diff_1k.jpg
+map_Ks Edificio_Piso\\old_planks_02_spec_1k.jpg
+map_Ns Edificio_Piso\\old_planks_02_rough_1k.jpg
+
+newmtl Techo
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Edificio_Techo\\roof_3_diff_1k.jpg
+map_Ks Edificio_Techo\\roof_3_spec_1k.jpg
+map_Ns Edificio_Techo\\roof_3_rough_1k.jpg
+
+newmtl VentanaVerde
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Edificio_Concreto_Verde\\Paint003_2K_Normal.jpg
+map_Kd Edificio_Concreto_Verde\\green.jpg
+map_Ns Edificio_Concreto_Verde\\Paint003_2K_Roughness.jpg
