@@ -1,0 +1,4 @@
+C:/Users/Lucía/Documents/Visual Studio 2019/Practicas/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/edit_cache.dir
+C:/Users/Lucía/Documents/Visual Studio 2019/Practicas/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/glm_static.dir
+C:/Users/Lucía/Documents/Visual Studio 2019/Practicas/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/glm_shared.dir
+C:/Users/Lucía/Documents/Visual Studio 2019/Practicas/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/rebuild_cache.dir
