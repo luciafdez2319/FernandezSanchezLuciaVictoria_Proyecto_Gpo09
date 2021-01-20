@@ -149,7 +149,7 @@
     <None Include="Shaders\modelLoading.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="proyecto.cpp" />
+    <ClCompile Include="FernandezSanchezLuciaVictoria_Proyecto_Gpo09.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mesh.h" />
